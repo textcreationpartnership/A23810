@@ -1,0 +1,394 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Abstract of several examinations taken upon oath in the counties of Monmouth and Hereford, and delivered in to the Honourable House of Commons reported by Sir John Trevor, chair-man to the committee for drawing reasons to be given to the lords at a conference to prevent the growth and increase of popery ; together with the account given to the House of Commons the 12th of April, 1678, by John Arnold and John Scudamore, Esqs., of the encouragement given to popery in the counties of Monmouth and Hereford.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23810</idno>
+            <idno type="STC">Wing A120</idno>
+            <idno type="STC">ESTC R6638</idno>
+            <idno type="EEBO-CITATION">12706884</idno>
+            <idno type="OCLC">ocm 12706884</idno>
+            <idno type="VID">66049</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23810)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66049)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 372:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Abstract of several examinations taken upon oath in the counties of Monmouth and Hereford, and delivered in to the Honourable House of Commons reported by Sir John Trevor, chair-man to the committee for drawing reasons to be given to the lords at a conference to prevent the growth and increase of popery ; together with the account given to the House of Commons the 12th of April, 1678, by John Arnold and John Scudamore, Esqs., of the encouragement given to popery in the counties of Monmouth and Hereford.</title>
+                  <author>Trevor, John, Sir, 1637-1717.</author>
+                  <author>Arnold, John, Justice.</author>
+                  <author>Scudamore, John.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 20 [i.e. 17] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.C. by John Gain ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  England --  History --  17th century.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+               <term>Wales --  Church history --  17th century.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66049:1"/>
+            <pb facs="tcp:66049:1"/>
+            <p>AN ABSTRACT of Several Examinations Taken upon OATH, in the Counties of <hi>Monmouth</hi> and <hi>Hereford.</hi>
+            </p>
+            <p>And Delivered in to the HONOURABLE <hi>HOVSE</hi> of <hi>COMMONS:</hi> Reported by Sir <hi>JOHN TREVOR</hi> Chair-man to the Committee for drawing <hi>Reaſons</hi> to be given to the <hi>LORDS,</hi> at a Conference to prevent the <hi>Growth</hi> and <hi>Increaſe</hi> of <hi>POPERY.</hi>
+            </p>
+            <p>Together With the Account given to the HOUSE of COMMONS the <hi>12th,</hi> of <hi>April,</hi> 1678. By JOHN ARNOLD, <hi>And</hi> JOHN SCVDAMORE, <abbr>Eſqs</abbr>
+            </p>
+            <p>Of the <hi>Encouragement</hi> given to POPERY, in the Counties of <hi>MONMOVTH</hi> and <hi>HEREFORD.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. C.</hi> by <hi>John Gain,</hi> and to be Sold at his Houſe in <hi>Merchant-Tailers Rents,</hi> at the Lower End of <hi>Moor-Lane,</hi> 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="abstracts">
+            <div type="resolution">
+               <pb facs="tcp:66049:2"/>
+               <pb n="1" facs="tcp:66049:2"/>
+               <head>
+                  <date>Mercurij 27 die Martij, 1678.</date>
+               </head>
+               <opener>Reſolved, <hi>&amp;c.</hi>
+               </opener>
+               <p>
+                  <seg rend="decorInit">T</seg>HAT a Conference be deſired with the Lords, concerning the Danger the Nation is in by the <hi>Growth of Popery,</hi> and for providing Remedies to pre<g ref="char:EOLhyphen"/>vent the ſame.</p>
+               <p>An <hi>Addreſs</hi> with <hi>Reaſons</hi> thereunto, of the 21th of <hi>February,</hi> 1670, to pre<g ref="char:EOLhyphen"/>vent the <hi>Growth of Popery</hi> was Read.</p>
+            </div>
+            <div type="resolution">
+               <opener>Reſolved, <hi>&amp;c.</hi>
+               </opener>
+               <p>That a Committee be appointed to conſider of the ſaid <hi>Addreſs</hi> and <hi>Reaſons,</hi> and thereout, and upon the Debates of the Houſe, to prepare <hi>Reaſons</hi> to be offered at the ſaid Conference; and it is referred</p>
+               <list>
+                  <head>To</head>
+                  <item>Sir <hi>Thomas Meers,</hi>
+                  </item>
+                  <item>Coll. <hi>Burch,</hi>
+                  </item>
+                  <item>Sir <hi>Charl. Harbord,</hi>
+                  </item>
+                  <item>Sir <hi>John Knight,</hi>
+                  </item>
+                  <item>Lord <hi>Cavendiſh,</hi>
+                  </item>
+                  <item>Sir <hi>Tho. Clerges,</hi>
+                  </item>
+                  <item>Sir <hi>Adam Brown,</hi>
+                  </item>
+                  <item>Sir <hi>Francis Rolls,</hi>
+                  </item>
+                  <item>Serjeant <hi>Gregory,</hi>
+                  </item>
+                  <item>Sir <hi>Trevor Williams,</hi>
+                  </item>
+                  <item>Mr. <hi>Vane,</hi>
+                  </item>
+                  <item>Sir <hi>John Trevor.</hi>
+                  </item>
+                  <item>Sir <hi>Tho. Lee,</hi>
+                  </item>
+                  <item>Mr. <hi>Powel,</hi>
+                  </item>
+                  <item>Sir <hi>Tho. Littleton,</hi>
+                  </item>
+                  <item>Sir <hi>Rich. Temple,</hi>
+                  </item>
+                  <item>Mr. <hi>Vaughan,</hi>
+                  </item>
+                  <item>Mr. <hi>May,</hi>
+                  </item>
+                  <item>Sir <hi>John Hotham,</hi>
+                  </item>
+                  <item>Sir <hi>Will. Wentworth</hi>
+                  </item>
+                  <item>Sir <hi>Gilbert Gerard,</hi>
+                  </item>
+                  <item>Sir <hi>Tho. Higgons,</hi>
+                  </item>
+                  <item>Mr. <hi>Hopkins,</hi>
+                  </item>
+                  <item>Sir <hi>Eliab Harvy,</hi> or any five of them.</item>
+               </list>
+               <p>And they are to Meet this Afternoon at three of the Clock in the Speakers Chamber, and have Power to ſend for <hi>Perſons, Papers</hi> and <hi>Records.</hi>
+               </p>
+            </div>
+            <div type="order">
+               <pb n="2" facs="tcp:66049:3"/>
+               <opener>Ordered,</opener>
+               <p>That the Committee laſt appointed do ſummon Mr. <hi>Arnold</hi> and Mr. <hi>Sceudamore,</hi> and take their Anſwers to the Papers now delivered in.</p>
+               <closer>
+                  <signed>Will. Goldſbrough, Cler. Dom. Com.</signed>
+               </closer>
+            </div>
+            <div type="address">
+               <opener>
+                  <dateline>In the Speakers Chamber,
+<date>Mercurij 27th. die Martij, 1678.</date>
+                  </dateline>
+               </opener>
+               <p>At the <hi>Committee</hi> appointed to conſider of an <hi>Addreſs,</hi> with <hi>Reaſons</hi> thereto of the <hi>21th,</hi> of <hi>February,</hi> 1670, to prevent the <hi>Growth of Popery,</hi> and thereout and upon the <hi>Debates</hi> of the Houſe, to prepare <hi>Reaſons</hi> to be offered at a <hi>Conference,</hi> and to ſummon Mr. <hi>Arnold</hi> and Mr. <hi>Sceudamore,</hi> and to take their <hi>Anſwers</hi> to the <hi>Papers</hi> delivered in to the Houſe.</p>
+            </div>
+            <div type="order">
+               <head>Sir <hi>John Trevor,</hi> in the Chair, <hi>Ordered,</hi>
+               </head>
+               <p>The the ſaid Mr. <hi>Arnold,</hi> and Mr. <hi>Sceudamore</hi> be ſum<g ref="char:EOLhyphen"/>moned perſonally to attend this <hi>Committee</hi> on <hi>Thurſday</hi> the <hi>17th,</hi> of <hi>April</hi> next, at three of the clock in the Afternoon in the <hi>Speakers Chamber,</hi> to give their <hi>Anſwers</hi> to the <hi>Papers</hi> delivered into the Houſe before this <hi>Committee,</hi> having no<g ref="char:EOLhyphen"/>tice hereof, by ſhewing them this <hi>Order,</hi> ſigned by the <hi>Chairman</hi> of this <hi>Committee;</hi> and this they are not to fail in but to obſerve and do in purſuance of an <hi>Order</hi> of the <hi>Houſe of Commons.</hi>
+               </p>
+               <closer>
+                  <signed>John Trevor.</signed>
+               </closer>
+            </div>
+            <div type="report">
+               <pb n="3" facs="tcp:66049:3"/>
+               <head>
+                  <date>Lunae 29 Aprilis 1678.</date>
+               </head>
+               <p>Sir <hi>John Trevor</hi> reports from the Committee ap<g ref="char:EOLhyphen"/>pointed to prepare, and draw up Reaſons to be of<g ref="char:EOLhyphen"/>fered at a Conference with the Lords, concerning the Danger the Nation is <hi>in,</hi> by the <hi>Growth</hi> of <hi>Pope<g ref="char:EOLhyphen"/>ry,</hi> and for providing Remedies to prevent the ſame, and to Summon <hi>Mr. Arnold,</hi> and Mr. <hi>Scudamore,</hi> and to take their Anſwers to the Papers delivered to M. <hi>Speaker.</hi> That the Committee met ſeveral times, and that they had peruſed ſeveral Papers, and Re<g ref="char:EOLhyphen"/>cords, and had taken the Anſwers of Mr. <hi>Arnold,</hi> and Mr. <hi>Scudamore,</hi> and the Informations of ſeveral others, and had ſeveral Informations exhibited to them taken upon Oath before Juſtices of the Peace. And that the Committee ordered him to make a Report conſiſting of ſeveral Particulars diſ<g ref="char:EOLhyphen"/>poſed under three Heads, which Report he read in his place, and afterwards delivered the ſame in at the <hi>Clerks Table.</hi>
+               </p>
+               <div n="1" type="heading">
+                  <head>The Firſt Head.</head>
+                  <p>The Names of <hi>Popiſh Prieſts,</hi> by whom kept, the Chappels and other Places where Maſs is ſaid, and reſorted to in the County of <hi>Monmouth.</hi>
+                  </p>
+                  <p>
+                     <hi>John Arnold</hi> of <hi>Lanvihangel</hi> in the County of <hi>Mon<g ref="char:EOLhyphen"/>mouth</hi> 
+                     <abbr>Eſq</abbr> late Juſtice of Peace there, by his Exami<g ref="char:EOLhyphen"/>nation, ſaith, That he hath known Mr. <hi>David Lew<g ref="char:EOLhyphen"/>is</hi> for ſeaven or eight Years, who hath been for all that time and before reputed a <hi>Jeſuit</hi> and Provin<g ref="char:EOLhyphen"/>cial of the <hi>Jeſuits</hi> in the County of <hi>Monmouth,</hi> That for ſeveral Years paſt he lived at <hi>Lanternam</hi> Houſe then in Jointure to the Lady <hi>Morgan,</hi> which by her Death, about two or three Years ſince, came to Sir <hi>Edward Morgan,</hi> where the ſaid <hi>David Lewis</hi> publick<g ref="char:EOLhyphen"/>ſaid Maſs as has been credibly informed by perſons that were preſent thereat, he likewiſe ſaith that he
+<pb n="4" facs="tcp:66049:4"/>
+hath ſeen the Chappel, Altar and Ornaments in the ſaid Houſe for the Celebration of Maſs, that the ſaid <hi>David Lewis</hi> lives now near <hi>Lantarnam</hi> aforeſaid, and doth alſo, as he hath been informed, ſay Maſs at a <hi>Pepiſh Chappel</hi> near Mr. <hi>Gunters</hi> Houſe, in <hi>Aberga<g ref="char:EOLhyphen"/>venny</hi> Town.</p>
+                  <p>
+                     <hi>Charles Morgan,</hi> Gentleman, by his Examination upon Oath ſaith, that <hi>David Lewis</hi> a <hi>Popiſh reputed Prieſt</hi> doth often frequent the Houſe of one Mr. <hi>Thomas Gunter</hi> of <hi>Abergavenny.</hi>
+                  </p>
+                  <p>
+                     <hi>William James,</hi> by his <hi>Examination</hi> upon Oath ſaith, that he hath known <hi>David Lewis</hi> to be a <hi>Bopiſh Prieſt</hi> this Sixteen Years and believes him to be the Superiour of all the <hi>Jeſuits</hi> in <hi>North</hi> and <hi>South-Wales;</hi> he and his Wife have received <hi>the Sacrament</hi> of him, hath ſeen him adminiſter to above an <hi>Hundred</hi> Per<g ref="char:EOLhyphen"/>ſons, hath ſeen him <hi>Chriſten</hi> ſeveral Children, and <hi>Marry</hi> ſeveral Perſons at a <hi>Chappel</hi> in <hi>Lantarnam-Houſe,</hi> and at the Houſes of <hi>Andrew</hi> and <hi>Edward Williams,</hi> that great number reſort to <hi>Lantarnam</hi> to hear <hi>Maſs,</hi> depo<g ref="char:EOLhyphen"/>ſeth further that he hath given ſeveral Angels to the ſaid <hi>David Lewis,</hi> to pray for the Soul of his <hi>Father-in-law</hi> after he was dead, &amp; that his <hi>Father-in-law</hi> told him and his Wife, that he was fain to give <hi>Fifty Pounds</hi> to the ſaid <hi>David Lewis,</hi> to be diſpoſed to pious Uſes, and that if he did not give it, he ſhould neither have the <hi>Sacrament,</hi> nor <hi>Abſolution,</hi> and that he further ſaith, that he knows <hi>William Cornelius,</hi> who hath officiated as <hi>Clerk</hi> at <hi>Maſs</hi> to the ſaid <hi>David Lewis</hi> this <hi>Fifteen</hi> or <hi>Sixteen Years,</hi> and that the ſaid <hi>William Cornelius</hi> was both a <hi>Conſtable</hi> and <hi>Churchwarden</hi> for the Pariſh of <hi>Langat<g ref="char:EOLhyphen"/>tock.</hi>
+                  </p>
+                  <p>
+                     <hi>Dorothy,</hi> the Wife of <hi>William James</hi> depoſeth that ſhe hath known <hi>David Lewis</hi> to be a Popiſh Prieſt theſe <hi>twenty Years,</hi> hath ſeen him ſay <hi>Maſs</hi> at <hi>Lantarnam</hi> and elſewhere, ſhe and her Husband having received
+<pb n="5" facs="tcp:66049:4"/>
+the Sacrament from him, and hath ſeen him adminiſter it to ſeveral perſons, and <hi>Marry</hi> and <hi>Chriſten</hi> ſeveral times: She knowes that one <hi>William Cornellius</hi> hath officiated as Clerk to the ſaid <hi>David Lewis</hi> for fixteen years paſt and above.</p>
+                  <p>Mr. <hi>Arnold</hi> faith, that he hath known Captain <hi>Silyard</hi> four or five years; that he hath been Informed by the Mi<g ref="char:EOLhyphen"/>niſter of <hi>Lanarth</hi> and others, that he is a <hi>Romiſh Prieſt</hi> and doth openly ſay Maſs in that Pariſh, to which great num<g ref="char:EOLhyphen"/>bers do reſort, that moſt of the Pariſh are <hi>Papiſts.</hi>
+                  </p>
+                  <p>
+                     <hi>Tho. Watkins</hi> Vicar of <hi>Lanarth</hi> upon his Oath Depoſeth, That one <hi>Silyard,</hi> a reputed <hi>Popiſh Prieſt,</hi> reſides in the ſaid Pariſh.</p>
+                  <p>Mr. <hi>Charles Morgan</hi> upon his Oath depoſeth, that the ſaid Mr. <hi>Silyard</hi> a reputed popiſh Prieſt, lives with Mrs. <hi>Jones</hi> of <hi>Lanarth</hi> Widdow.</p>
+                  <p>Mr. <hi>Arnold</hi> ſaies, That Mr. <hi>Harris</hi> alias <hi>Price,</hi> is reputed to be a popiſh Prieſt.</p>
+                  <p>
+                     <hi>Tho. Watkins</hi> of <hi>Lanarth,</hi> upon his Oath depoſeth, that <hi>Walter Harris,</hi> alias <hi>Price</hi> is a reputed popiſh Prieſt, re<g ref="char:EOLhyphen"/>ſideth in <hi>Clytha</hi> a Hamlet in <hi>Lanarth,</hi> in the Houſe of Mrs. <hi>Chriſtian Milbourn,</hi> that there are above Eighty reputed <hi>Popiſh Recufants</hi> beſides Children and Servants in that Pariſh, that he hath been Informed, that the ſaid <hi>Price</hi> ſaith <hi>Maſs, Marries</hi> and <hi>Chriſtens</hi> in the ſaid Pariſh, and hath en<g ref="char:EOLhyphen"/>deavoured to pervert ſeveral of the Pariſh to the Popiſh <hi>Religion,</hi>
+                  </p>
+                  <p>Mr. <hi>Samuel Watkins,</hi> Vicar of <hi>Lantillio, Greſſenny</hi> and <hi>Penroſe,</hi> in the County of <hi>Monmouth,</hi> upon his Oath ſayes, that Mr. <hi>Walter Harris,</hi> alias <hi>Price,</hi> and another Mr. <hi>Harris</hi> ſay <hi>Maſs</hi> at <hi>William Pullens</hi> Houſe, and likewiſe do often <hi>Chriſten.</hi>
+                  </p>
+                  <p>
+                     <pb n="6" facs="tcp:66049:5"/>Mr. <hi>Aaron Lewis</hi> of <hi>Landegva</hi> in the County of <hi>Mon<g ref="char:EOLhyphen"/>mouth,</hi> upon his Oath ſaith, That ſeveral perſons have in<g ref="char:EOLhyphen"/>form'd him that <hi>Walter Harris</hi> alias <hi>Price,</hi> is a popiſh <hi>Prieſt,</hi> and had <hi>Chriſtened</hi> ſeveral of their Children, and that the ſaid <hi>Price</hi> ſaid <hi>Maſs</hi> publickly, and that he lives in the Houſe of Mrs. <hi>Katherine</hi> and Mrs. <hi>Chriſtian Milbourn.</hi>
+                  </p>
+                  <p>
+                     <hi>Alice</hi> the Wife of the ſaid <hi>Aaron Lewis</hi> upon her Oath ſaith, that ſhe knows the ſaid Mr. <hi>Walter Price</hi> to be a po<g ref="char:EOLhyphen"/>piſh prieſt, hath ſeen him and heard him ſay Maſs forty times, hath received the Sacrament from him, hath ſeen him adminiſter it to a hundred more, hath ſeen him often Marry and Chriſten, hath perverted ſeveral Proteſtants from the Church of <hi>England,</hi> to the Church of <hi>Rome,</hi> as <hi>James Phichard</hi> and <hi>Katherine his</hi> Wife, <hi>Charles Walkins,</hi> and <hi>Margaret</hi> his Wife, and the Wife of <hi>William Arthur,</hi> and ſeveral others.</p>
+                  <p>She further ſaith, that ſhe hath ſeen above a hundred at maſs, and that the crowd was ſo great, that the Loft was forced to be propt leaſt it ſhould fall down under the weight; that ſhe hath confeſt her ſins to the ſaid <hi>Price</hi> and that he gave her Abſolution.</p>
+                  <p>
+                     <hi>William Lewis</hi> of <hi>Ragland,</hi> upon his Oath ſaith, in the County of <hi>Monmouth,</hi> that he hath ſeen <hi>Mr. Price,</hi> who doth or lately did live at the the Houſe of Mr. <hi>Milborn,</hi> ſay Maſs, and preach in <hi>Welch;</hi> that the ſaid <hi>Price</hi> did earneſt<g ref="char:EOLhyphen"/>ly endeavour to turn him from the Church of <hi>England</hi> to the Church of <hi>Rome;</hi> telling him he ſhould never ſee the Face of God, unleſs he would be of their way.</p>
+                  <p>
+                     <pb n="7" facs="tcp:66049:5"/>Mr. <hi>Roger Seys</hi> upon his Oath ſaith, that the ſaid <hi>Walter Harris,</hi> alias <hi>Price,</hi> is a <hi>popiſh Prieſt;</hi> and that he was pre<g ref="char:EOLhyphen"/>ſent when it was proved before a <hi>Juſtice of the Peace,</hi> that the ſaid <hi>Price</hi> had ſaid <hi>Maſs.</hi>
+                  </p>
+                  <p>
+                     <hi>William James</hi> upon his Oath ſayeth, that he knoweth <hi>Walter Harris</hi> alias <hi>Price</hi> a <hi>popiſh Prieſt,</hi> and hath ſeen him at <hi>Maſs,</hi> and heard him ſay <hi>Maſs,</hi> and that he's en<g ref="char:EOLhyphen"/>tertained at Mrs. <hi>Milborns</hi> Houſe in <hi>Clithia.</hi>
+                  </p>
+                  <p>Mr. <hi>Arnold</hi> ſayeth, that he hath been very credibly in<g ref="char:EOLhyphen"/>formed, that one Doctor <hi>Pugh</hi> ſays <hi>Maſs</hi> publickly in the Houſe of Mr. <hi>Thomas Bodnam</hi> of <hi>Blackbrook,</hi> both when Mr. <hi>Bodnam</hi> is at home, and when he is abſent; that he hath been informed, that <hi>Walter James</hi> 
+                     <abbr>Eſq</abbr> ſuffers one <hi>John Loyd</hi> a reputed <hi>Prieſt</hi> to ſay <hi>Maſs</hi> at his Houſe at <hi>Treivor.</hi>
+                  </p>
+                  <p>That he hath ſeen a Chappel at <hi>Lanvair</hi> in the Houſe of <hi>Turbervile Morgan</hi> 
+                     <abbr>Eſq</abbr> and an <hi>Altar</hi> and <hi>Ornaments</hi> in it, and he hath been informed that <hi>Thomas Loyd,</hi> a <hi>popiſh Prieſt</hi> ſaith publick <hi>Maſs,</hi> Marries, Chriſtens, and Buries in the ſaid Chappel.</p>
+                  <p>Mr. <hi>Samuel Watkins</hi> of <hi>Lantilio Greſſenny</hi> and <hi>Penroſe,</hi> up<g ref="char:EOLhyphen"/>on his Oath ſayeth that Mr. <hi>Loyd, a reputed popiſh Prieſt</hi> ſays <hi>Maſs</hi> at the Houſe of <hi>Turbervile Morgan</hi> 
+                     <abbr>Eſq</abbr> in his Pa<g ref="char:EOLhyphen"/>riſh, that there are three other Houſes in his Pariſh, where reputed <hi>opiſh Prieſts</hi> are entertained, and ſay publick <hi>Maſs,</hi> and that there are in the Pariſhes of <hi>Lantilio, Greſſen<g ref="char:EOLhyphen"/>ny</hi> and <hi>Penroſe</hi> Sixſcore Popiſh Recuſants.</p>
+                  <p>Mr. <hi>Arnold</hi> ſayes, that he hath been informed by the Miniſters and ſeveral Witneſſes, that Mr. <hi>Scudamore</hi> of <hi>Pen<g ref="char:EOLhyphen"/>roſe's</hi> Widdow, ſuffers publick <hi>Maſs</hi> to be ſaid in her Houſe, and that numbers reſort thither.</p>
+                  <p>
+                     <pb n="8" facs="tcp:66049:6"/>Mr. <hi>Samuel Watkins,</hi> Vicar of <hi>Penroſe</hi> upon his Oath ſaith, That one Mr. <hi>Lloyd,</hi> a reputed popiſh Prieſt is enter<g ref="char:EOLhyphen"/>tained at the Houſe of one Mrs. <hi>Winefrid Sceudamore,</hi> and that he hath ſeen him there: and a great number <hi>of Popiſh Recuſants</hi> reſorting thither upon <hi>Sundays</hi> and <hi>Holy-days,</hi> to hear <hi>Maſs,</hi> as he conceiveth, and he verily believes all her Children are Chriſtened by popiſh prieſts.</p>
+                  <p>M. <hi>Arnold</hi> ſayes that he hath ſeen a publick Chappel near the Houſe of <hi>Mr. Tho. Gunter</hi> a Popiſt convict, in <hi>Ab<g ref="char:EOLhyphen"/>ergavenny,</hi> adorned with the marks of the <hi>Jeſuites</hi> on the outſide and is informed that <hi>Maſs</hi> is ſaid there by Cap<g ref="char:EOLhyphen"/>tain <hi>Evans</hi> a reputed <hi>Jeſuite,</hi> and by the aforeſaid <hi>David Lewis,</hi> that very great numbers reſort to the ſaid Chappel, and very often at Church time and he hath credibly heard that a hundred hath gone out of the ſaid Chappel, when not forty have gone out of the great Church, that the ſaid Chappell is ſcituate in a publick Street of the ſaid Town, and doth front the Street.</p>
+                  <p>
+                     <hi>Mr. Greenhaugh</hi> Vicar of <hi>Abergavenny</hi> and <hi>Lantilio Per<g ref="char:EOLhyphen"/>tholy</hi> in the County of <hi>Monmonth,</hi> upon his Oath ſayth, That on <hi>Sunday</hi> and <hi>Holy-days</hi> he hath ſeen great numbers of <hi>Roman Catholiks</hi> reſort to the houſe of <hi>Mr. Thomas Gunt<g ref="char:EOLhyphen"/>er</hi> at <hi>Abergavenny,</hi> and that the ſaid <hi>Gunter</hi> entertaines one Captain <hi>Evans,</hi> whom he ſuppoſeth to be a <hi>Popiſh Prieſt;</hi> That there is the publick mark of the <hi>Jeſuites</hi> on the out<g ref="char:EOLhyphen"/>ſide of the Building, which is directly towards the pariſh Church, and he is informed there is a Chappel, and that they have in that Houſe all the Formalities and ornaments belonging to a Chappel, with Maſs on <hi>Sundays</hi> and <hi>Holy<g ref="char:EOLhyphen"/>dayes;</hi> he depoſeth, that there have been <hi>Marriages</hi> and Chriſtenings in both the ſaid pariſhes by popiſh <hi>Prieſts;</hi> and further, that the ſaid <hi>Thomas Gunter</hi> told him, that in <hi>Olivers</hi> time of ſeverity, he kept a <hi>Prieſt,</hi> and would keep
+<pb n="9" facs="tcp:66049:6"/>
+one now; that many times Corps come to be interred with the Formalities of white Croſſes upon them, and endeavouring to hinder the ſaid Superſtition, he hath oft<g ref="char:EOLhyphen"/>ten been abuſed; that he hath informed <hi>John Arnold</hi> 
+                     <abbr>Eſq</abbr> and other Juſtices of the Peace of publick <hi>Maſs</hi> there and other Enormities of rhe Papiſts.</p>
+                  <p>
+                     <hi>William James</hi> aforeſaid upon his Oath depoſeth, that he knows <hi>Phillip Evans,</hi> commonly called Captain <hi>Evans</hi> a popiſh Prieſt entertained by <hi>Thomas Gunter</hi> at his Houſe in <hi>Aliergavenny.</hi>
+                  </p>
+                  <p>Mr. <hi>Arnold</hi> ſayeth, that the Perſons who go under the Names hereafter mentioned do often change their names and are called by other Names, and are reputed itincrant Prieſts in the Counties of <hi>Hereford</hi> and <hi>Monmonth,</hi> and do uſually offieiate in ten Miles eompaſs (<hi>viz</hi>) Mr <hi>Draw<g ref="char:EOLhyphen"/>cot,</hi> Mr. <hi>Elliot,</hi> Captain <hi>Pugh,</hi> Doctor <hi>Pugh,</hi> Mr. <hi>Rider,</hi> Mr. <hi>Morgan,</hi> Mr. <hi>Loyd,</hi> Mr. <hi>Williams,</hi> Mr. <hi>Parry,</hi> Mr. <hi>Jones,</hi> mr. <hi>Harriks</hi> who is ſaid to be Superintendent of the Comb, mr. <hi>John Hall,</hi> mr. <hi>Thomas Powel,</hi> mr. <hi>Harries</hi> alias <hi>Price,</hi> and mr. <hi>Thomas Andrews.</hi>
+                  </p>
+                  <p>
+                     <hi>Thomas Watkins Vicar</hi> of <hi>Lanarth</hi> upon his Oath depoſeth that <hi>Thomas Andrews</hi> a reputed Poiſh Prieſt ſays <hi>Maſs</hi> ve<g ref="char:EOLhyphen"/>ry often at <hi>William Davids Houſe</hi> of <hi>Bettus</hi> as he hath been informed.</p>
+                  <p>Mr. <hi>Samuel Watkins Vicar</hi> of <hi>Lantilio Greſſenny</hi> upon his Oath depofeth that mr. <hi>Andrews</hi> a reputed popiſh <hi>Prieſt,</hi> is entertained at mr. <hi>Anthony Powels</hi> at <hi>Killough,</hi> where he hath ſeen him, and that he ſayeth publick <hi>Maſs</hi> there, and that mr. <hi>Hall,</hi> a reputed popiſh <hi>Prieſt</hi> is entertained at mr. <hi>James Pricards</hi> Houſe of <hi>Blaen Liman,</hi> where <hi>maſs is</hi> publickly ſaid; and hath been Informed, that another reputed popiſh Prieſt called mr. <hi>Laurance Watkings</hi> fre<g ref="char:EOLhyphen"/>quents the Houſe of, mr. <hi>Walter Powel.</hi>
+                  </p>
+                  <p>
+                     <pb n="14" facs="tcp:66049:7"/>
+                     <hi>Mr. Roger Seys</hi> upon his Oath depoſeth, that he heard it proved before ſeveral Juſtices of the peace of the Coun<g ref="char:EOLhyphen"/>ty of <hi>Monmouth,</hi> that Mr. <hi>Laurence Watkins</hi> was a popiſh Prieſt, and did officiate at the Houſe of <hi>Mr. Charles Scuda<g ref="char:EOLhyphen"/>more</hi> deceaſed, and further depoſeth, that <hi>Thomas Powel,</hi> a reputed popiſh Prieſt liveth at the Houſe of the Lady <hi>Jones</hi> of <hi>Treowen</hi> which is diſtant abont a quarter of a mile from the pariſh <hi>Church</hi> of <hi>Dingeſtow;</hi> to which <hi>Church as he</hi> is informed, there do not reſort above ſixteen or rweuty perſons or thereabouts, when there do reſort to the houſe of the ſaid Lady <hi>Jones,</hi> threeſcore or thereabouts, all which do paſs and repaſs through the Church Yard of <hi>Dingeſtow</hi> aſoreſaid at the Time of Divine Service.</p>
+                  <p>
+                     <hi>Mr. Charles Morgan</hi> upon his Oath depoſeth that <hi>Mr. Williams</hi> a reputed popiſh prieſt frequenteth a Houſe called <hi>Lantrothy.</hi>
+                  </p>
+                  <p>
+                     <hi>Mr. Arnold</hi> ſays that he hath ſeen a hundred <hi>papiſts</hi> meet on the top of an high Hill, called St. <hi>Michaels Mount,</hi> where is frequent meetings eight or ten times in the year, as he is informed, <hi>Maſs is ſaid,</hi> and ſometimes Sermons are preached there.</p>
+                  <p>
+                     <hi>John Scudamore</hi> of <hi>Kentchurch</hi> in the County of <hi>Here<g ref="char:EOLhyphen"/>ford</hi> 
+                     <abbr>Eſq</abbr> faith that he ſaw very great numbers of people at their Devotion on the top of a high hill in <hi>Monmouth ſhire</hi> called <hi>St. Michaels Mount,</hi> where there is a ruinous Chappel and a Stone with croſſes on it, which he took to be an Altar, and he hath ſeen people with Beads in their Hands kneeling towards the ſaid Stone both within and without the Chappel, and he hath been informed that <hi>Maſs</hi> is often faid there, and ſome <hi>papiſts</hi> have affirmed in his preſence that they have heard as good Sermons preached as ever they heard in their<gap reason="missing" extent="1 page">
+                        <desc>〈1 page missing〉</desc>
+                     </gap>
+                  </p>
+                  <p>
+                     <pb n="20" facs="tcp:66049:7"/>Mr. <hi>Arnold</hi> ſaith, that he knows that <hi>Combe</hi> Houſe in <hi>Hereford-ſhire,</hi> and ſeveral Lands belonging unto it, of a conſiderable value, is commonly reputed to be a <hi>Covent</hi> of <hi>Jeſuites,</hi> and he hath heard ſome of the, <hi>Papiſts</hi> themſelves call it, the <hi>Colledge</hi> of the <hi>Combe</hi> and he hath been informed, that there are com<g ref="char:EOLhyphen"/>monly five or ſix <hi>Jeſuites</hi> roſrding there, and there is a publick Chappel, and Maſs conſtantly ſaid there<g ref="char:EOLhyphen"/>in.</p>
+                  <p>Mr. <hi>Scudamore</hi> ſayes, that at a Houſe called the <hi>Combe</hi> in the County of <hi>Hereford</hi> Several Prieſt are maintained and kept there and that it is common<g ref="char:EOLhyphen"/>ly reported that it is a Houſe or <hi>Colledge</hi> for that purpoſe.</p>
+                  <p>
+                     <hi>William James</hi> of <hi>Langatock</hi> in the County of <hi>Monmouth</hi> upon his Oath depoſeth, that he hath heard ſeve<g ref="char:EOLhyphen"/>rall of the <hi>papiſh Prieſts</hi> ſay, that if they could not live in thoſe parts they would repair to the <hi>Combe</hi> in <hi>Hereford-ſhire,</hi> and believes the ſaid <hi>Combe</hi> to be a <hi>Covent,</hi> and that the Lands thereunto belonging be<g ref="char:EOLhyphen"/>long to the Prieſts; and that they do keep or lately did keep Husbandry there.</p>
+                  <p>Mr. <hi>Charles Morgain</hi> upon his Oath depoſeth, that <hi>Combe</hi> Houſe in the County of <hi>Hereford</hi> near the dwelling Houſe of <hi>Henry Milborn</hi> 
+                     <abbr>Eſq</abbr> a Juſtice of the Peace is reputed to be a popiſh <hi>Covent,</hi> where ſeveral popiſh reputed <hi>Prieſts</hi> Did latly inhabit (<hi>viz</hi>) Mr. <hi>James,</hi> Mr. <hi>Humphreys,</hi> Mr. <hi>Dracyot</hi> and Mr. <hi>Harris.</hi>
+                  </p>
+                  <p>Three worthy members of this Houſe living in or near <hi>Hereford-ſhire</hi> informed the Committee that <hi>Combe-Houſe</hi> aforſaid, and the Lands thereunto be<g ref="char:EOLhyphen"/>longing is commonly reputed to belong to the po<g ref="char:EOLhyphen"/>piſh <hi>prieſts.</hi>
+                  </p>
+               </div>
+               <div n="2" type="heading">
+                  <pb n="12" facs="tcp:66049:8"/>
+                  <head>The ſecond Head.</head>
+                  <p>The names of Juſtices of Peace and others that are <hi>Papiſts</hi> or ſuſpected <hi>Popiſts</hi> and their proceedings in favour of popiſh <hi>Prieſts</hi> and popiſh <hi>Recuſants.</hi>
+                  </p>
+                  <p>Mr. <hi>Arnol</hi> ſays, That he know's Sir <hi>Edward Morgan</hi> of <hi>Lantarnam</hi> in the County of <hi>Monmoth</hi> Barronet, that he hath ſeen in his houſe att <hi>Lantarnam</hi> a popiſh Chappell with Altar and Ornamenttherein for the celebration of Maſs wherein Maſs is ſaid, as he hath been informed, by ſuch as have bin preſent thereat, that he heard the ſaid Sir <hi>Edward Morgan</hi> affirm himſelf to be a <hi>Roman Catholicke,</hi> that he is yet con<g ref="char:EOLhyphen"/>tinued in Commiſſion of the Peace and is reputed to be a Deputy Lieutenant.</p>
+                  <p>
+                     <hi>Mr. Arnold</hi> ſayes, That about ten yeares ſince he knew <hi>William Jones</hi> of <hi>Lanarth</hi> Eſquir, that he was a Juſtice of the Peace and Deputy Lieutenant of <hi>Monmothſhire,</hi> hath bin infromed by worthy Members this Houſe, that before and at the time of his Death he was a <hi>Papiſh;</hi> he hath heard ſome Papiſts bragg that he dyed a Papiſt and that his Son is now bred in a Colledge of <hi>Jeſuites</hi> in <hi>France,</hi> or elſe where in forraigne parts; he ſays, that he hath been in<g ref="char:EOLhyphen"/>formed by the Miniſters and others that moſt of that Pariſh are Papiſts (he ſays) that though ſever<g ref="char:EOLhyphen"/>all Warrants have iſſued from the Juſtice to have accounts of defaults for not comming to Church, no returnes cold be had for theſe two or three yeares laſt paſt, the Church wardens and Conſtables being <hi>Papiſts.</hi>
+                  </p>
+                  <p>Mr. <hi>Thomas Watkins,</hi> Vicar of the Pariſh of <hi>Lanarth</hi> upon his Oath ſays there are above <hi>fourſcore</hi> reputed <hi>Popiſh recuſants</hi> within his pariſh, beſides Children and Servants; three reputed <hi>Popiſh Prieſts</hi> reſideing and Officiateing there (<hi>viz.</hi>)</p>
+                  <p>
+                     <pb n="17" facs="tcp:66049:8"/>One <hi>Sylliard,</hi> who was lately Tutor to Mr. <hi>Jones's</hi> two Sons, who are now beyond Sea, as he verily believes: One <hi>Walter Harris</hi> reſiding at one Mrs. <hi>Milborn's</hi> Houſe in <hi>Clithia</hi> a Hamlelt of <hi>Lanarth,</hi> and <hi>An<g ref="char:EOLhyphen"/>drews</hi> at <hi>Bettus.</hi>
+                  </p>
+                  <p>Mr. <hi>Charles Morgan</hi> upon his Oath, depoſeth that Mr. <hi>Sylliard,</hi> a reputed Popiſh Prieſt, lives with Mrs. <hi>Jones</hi> of <hi>Lanarth,</hi> Widdow to Mr. <hi>William Jones</hi> of <hi>Lanarth,</hi> who was a <hi>Juſtice of Peace.</hi>
+                  </p>
+                  <p>Mr. <hi>John Greenhaugh, Vicar</hi> of <hi>Abergavenny</hi> and <hi>Lantilio Portho<g ref="char:EOLhyphen"/>ly</hi> in the County of <hi>Monmouth,</hi> upon his Oath depoſeth, that there is or hath of late been one Mr. <hi>Evans</hi> a reputed popiſh Prieſt en<g ref="char:EOLhyphen"/>tertained at the Houſe of <hi>Charles Proger</hi> 
+                     <abbr>Eſq</abbr> in the ſaid Pariſh of <hi>Lantilio,</hi> who is a <hi>Juſtice of Peace,</hi> and that he hath ſeen great num<g ref="char:EOLhyphen"/>bers of Men and Women reſort thither to Maſs as he conceives.</p>
+                  <p>Mr. <hi>Arnold</hi> ſays, that he hath been informed, that <hi>Maſs</hi> was ve<g ref="char:EOLhyphen"/>ry lately and publickly ſaid at <hi>Lantrothy,</hi> a Houſe belonging to <hi>Row<g ref="char:EOLhyphen"/>land Prichard</hi> 
+                     <abbr>Eſq</abbr> now a <hi>Juſtice of Peace</hi> of <hi>Monmouthſhire;</hi> where one <hi>Thomas Elliot,</hi> a <hi>Popiſh Prieſt</hi> (formerly committed to <hi>Hereford</hi> Goale) as ſuch, doth officiate; that he informed the ſaid Mr. <hi>Prichard</hi> of it, and that it was dangerous to him, and Scandalous to <hi>Religion</hi> to ſuffer it; the ſaid Mr. <hi>Prichard</hi> anſwered, that he had Ten Pounds Rent extraordinary for it; and that would do him more good than the Scandal could hurt him; that Mr. <hi>Prichard</hi> is Nephew to Mr. <hi>Henry Milborn.</hi>
+                  </p>
+                  <p>Mr. <hi>Charles Morgan</hi> upon his Oath ſayeth, that he hath credibly heard that <hi>Rowland Prichard</hi> 
+                     <abbr>Eſq</abbr> hath ten Pounds, <hi>per Annum</hi> more for his Houſe at <hi>Lantrothy,</hi> for ſuffering one Mr. <hi>Williams,</hi> a repu<g ref="char:EOLhyphen"/>ted <hi>Popiſh Prieſt</hi> to be there ſometimes.</p>
+                  <p>Mr. <hi>Arnold</hi> ſayes, that he knows <hi>Henry Milborn</hi> 
+                     <abbr>Eſq</abbr> to be a Juſtice of Peace in four <hi>Counties,</hi> whereof <hi>Monmouthſhire</hi> is one, and that he the ſaid Mr. <hi>Milborn</hi> over ſince he came into the Com<g ref="char:EOLhyphen"/>miſſion of the Peace for <hi>Monmouthſhire,</hi> hath kept Papiſts for his Clerks, who received and kept all Preſentments, one of them called <hi>Bower,</hi> who was Indicted for treaſonable words at <hi>Hereford</hi> Aſſizes, of which the <hi>Herefordſhire Members</hi> can give a more perfect Ac<g ref="char:EOLhyphen"/>count.</p>
+                  <p>The other named <hi>Peter Roberts</hi> a <hi>Papiſt</hi> convict; the ſaid Mr. <hi>Arnold</hi> ſayes, and <hi>Henry Probert</hi> 
+                     <abbr>Eſq</abbr> upon his Oath depoſeth, that they both as <hi>Juſtices</hi> of the Peace for the County of <hi>Monmouth,</hi> on the <hi>17<hi rend="sup">th</hi>
+                     </hi> Day of <hi>April</hi> 1677, did often tender the Oaths of <hi>Allegiance</hi> and <hi>Supremacy</hi> to the ſaid <hi>Peter Roberts,</hi> which the ſaid <hi>Peter</hi> with contempt did refuſe to take; that they both did require the ſaid Mr. <hi>Milborn</hi> being then preſent to joyn with them in tendering the ſaid Oaths, and in committing the ſaid <hi>Roberts,</hi> which he refu<g ref="char:EOLhyphen"/>ſed, whereupon the ſaid Mr. <hi>Arnold,</hi> and Mr. <hi>Probert</hi> did by <hi>War<g ref="char:EOLhyphen"/>rant</hi> and <hi>Mittimus</hi> commit the ſaid <hi>Roberts</hi> to one <hi>Hugh Powel</hi> one of the chief Conſtables of the hundred of <hi>Shenfrith</hi> to convey him
+<pb n="18" facs="tcp:66049:9"/>
+to his Majeſties Goale; whereupon the ſaid <hi>Henry Milborn</hi> did lay violent Hands on the chief <hi>Conſtable</hi> and puſht him away while the ſaid <hi>Roberts</hi> made his Eſcape.</p>
+                  <p>The ſaid Mr. <hi>Arnold</hi> further ſays, that he hath often heard the ſaid Mr. <hi>Milborn</hi> at Privy <hi>Seſſions</hi> both diſcourage <hi>Conſtables</hi> from preſenting <hi>Popiſh Recuſants,</hi> and alſo declare, that it was contrary to <hi>Law</hi> to preſent them at a <hi>Privy Seſſions,</hi> and that the <hi>Law</hi> of <hi>Primo Elizabethae</hi> was not intended againſt <hi>Papiſts,</hi> he alſo knows that the ſaid Mr. <hi>Milborn</hi> at the End of laſt <hi>Eaſter</hi> or <hi>Mid Summer Seſſions,</hi> did procure an Order, that neither the ſaid <hi>Henry Probert</hi> nor himſelf ſhould Act as <hi>Juſtices</hi> in the ſaid hundred of <hi>Skenfrith,</hi> though no <hi>Juſtice</hi> lived in the ſaid hundred, and they live both near to it, and that the ſaid Mr. <hi>Milburn</hi> obtained another Order of the <hi>Quarter Seſſions</hi> to vacate that they had done at a <hi>Privy Seſſions,</hi> where they had convicted above two hundred <hi>Papiſts,</hi> the Copys of which Or<g ref="char:EOLhyphen"/>der were denied him by the Clerk of the <hi>Peace</hi> and his Clerks, and he verily believes that the reaſon of making both their Orders, was becauſe the ſaid Mr. <hi>Probert</hi> and himſelf did their Duty faithfully, and put the <hi>Laws</hi> in Execution againſt the <hi>Papiſts.</hi>
+                  </p>
+                  <p>Mr. <hi>Arnold</hi> ſayes, that he knows, and Mr. <hi>Charles Morgan</hi> by his Oath depoſeth, that moſt of the ſaid <hi>Henry Milborn's</hi> Family and Houſhold are <hi>Papiſts.</hi>
+                  </p>
+                  <p>And Mr. <hi>Arnold</hi> ſays, that he was preſent when one Mr. <hi>Roger Seys</hi> did demand of Mr. <hi>Milborn</hi> a <hi>Warrant</hi> to apprehend one <hi>Walter Prite,</hi> whom the ſaid <hi>Seyes</hi> offered to prove to be a Popiſh <hi>Prieſt,</hi> kept in the Houſe of Mrs. <hi>Katherine</hi> and Mrs. <hi>Chriſtian Milborn</hi> Siſters to the ſaid Mr. <hi>Milborn,</hi> which the ſaid Mr. <hi>Milborn</hi> not only refuſed to grant, but threatned the ſaid Mr. <hi>Seys</hi> for demanding the ſame; and laſtly ſayeth, that he hath been credibly informed, that Mr. <hi>Milborn</hi> is a Truſtee for many of the <hi>Papiſts</hi> in <hi>Hereford</hi> and <hi>Mon<g ref="char:EOLhyphen"/>mouthſhiers.</hi>
+                  </p>
+                  <p>
+                     <hi>Henry Probert</hi> 
+                     <abbr>Eſq</abbr> upon his Oath ſayes, that Mr. <hi>Arnold</hi> with himſelf and others kept a Privy <hi>Seſſions</hi> at <hi>Lantilio Greſſenny</hi> in the County of <hi>Monmouth,</hi> where the Conſtables preſenteda great num<g ref="char:EOLhyphen"/>ber of <hi>Popiſh Recuſants,</hi> but all the next Quarter <hi>Seſſions,</hi> there was an Order made, vacating all that was done at the ſaid Privy Seſſi<g ref="char:EOLhyphen"/>ons, though very little or nothing was done there but about the Preſentment of <hi>Papiſts;</hi> and further ſaith that he doth in his Con<g ref="char:EOLhyphen"/>ſcience believe that the ſaid Mr. <hi>Milborn</hi> was the main Agent and Inſtrument of making and obtaining the ſaid Order.</p>
+                  <p>
+                     <hi>John Scudamore</hi> Juſtice of the Peace of <hi>Herefordſhire</hi> ſayes, that having deſired one Mr. <hi>Henery Milborn</hi> Juſtice of the Peace of that County to joyn with him in iſſuing out <hi>Warrants</hi> to levy twelve pence a Sunday on Popiſh <hi>Recuſants,</hi> he alwayes refuſed ſo to do, affirming that the Statute of <hi>Prime Elizabethae</hi> was never intended againſt the <hi>Papiſts,</hi> that he hath been credibly informed, that the
+<pb n="19" facs="tcp:66049:9"/>
+greateſt part of the Family and Houſhold of the ſaid Mr. <hi>Miborn,</hi> and the greateſt Part of the Pariſh wherein he lives, are <hi>Papiſts,</hi> that he hath known two of Mr. <hi>Milborns</hi> Clerks who received and kept all Returns and Preſentments, and were both declared <hi>Papiſts;</hi> the Name of one being <hi>Joh. Bower,</hi> who was tryed at <hi>Hereford</hi> for treaſon<g ref="char:EOLhyphen"/>able words, the Name of the other was <hi>Peter Roberts</hi> who is or was lately his Clerk.</p>
+                  <p>Mr. <hi>Roger Seys,</hi> and Mr. <hi>Lewis Price,</hi> upon their Oaths, ſeverally, depoſe that they were preſent when <hi>John Arnold</hi> and <hi>Henry Probert</hi> 
+                     <abbr>Eſq</abbr> did commit <hi>Peter Roberts,</hi> Clerk to Mr. <hi>Milborn,</hi> for refuſing to take the Oaths of <hi>Allegiance</hi> and <hi>Supremacy,</hi> and that the ſaid Mr. <hi>Milborn</hi> reſcued the ſaid <hi>Peter Roberts</hi> out of the Hands of the Chief <hi>Conſtable,</hi> who thereupon made his Eſcape.</p>
+                  <p>The ſaid Mr. <hi>Seys</hi> further depoſeth, that he being <hi>Church-warden,</hi> did on the Seventeenth of <hi>April</hi> 1677, demand a <hi>Warrant</hi> from Mr. <hi>Milborn</hi> againſt <hi>Walter Harris,</hi> alias <hi>Price,</hi> a Popiſh Prieſt, who lives with Mrs. <hi>Chriſtian</hi> and Mrs. <hi>Katherine Milborn,</hi> Siſters to the ſaid <hi>Milborn,</hi> which <hi>Warrant</hi> Mr. <hi>Milborn</hi> refuſed to grant, but threatned him with Opprobious Words, telling him he was a buſy troubleſom man, and that he would be upon his Skirts.</p>
+                  <p>
+                     <hi>Lambert Miles,</hi> upon his Oath depoſeth, that about the Years 1675, or 1676, being petty <hi>Conſtable</hi> of <hi>Lantilio Greſſenny;</hi> he went to Mr. <hi>Milborn</hi> a Juſtice of the Peace, with his Preſentment to be approved and ſubſcribed by the ſaid Mr. <hi>Milborn,</hi> wherein ſeveral <hi>Popiſh Re<g ref="char:EOLhyphen"/>onſants</hi> were preſented for not coming to Church, that the ſaid Mr. <hi>Milborn</hi> ſtruck out, or cauſed to be ſtruck out ſeveral of their Names, and the Oath, and that it was a true Preſentment, was omitted, he the ſaid <hi>Miles</hi> refuſing to take it, unleſs the Names of the ſaid <hi>Popiſh Recufants</hi> (ſtruck out as aforeſaid by Mr. <hi>Milborn,</hi> or his Order) were aſſerted therein, that thereupon the ſaid <hi>Miles</hi> never preſented thoſe ſtruck out any more, nor ſwore to any Preſentment after, though he continued petty Conſtable two Years.</p>
+                  <p>Mr. <hi>Arnold ſayeth,</hi> that he hath had it proved by Oath before him that Mr. <hi>Iſaac Williams</hi> who is a <hi>Coroner</hi> for part of the County of <hi>Monmouth,</hi> hath his Children Chriſtened by a <hi>Popiſh</hi> Prieſt, and that his Wife is a violent <hi>Papiſt,</hi> and have credibly heard, that <hi>Maſs</hi> is ve<g ref="char:EOLhyphen"/>ry often ſaid in his Houſe, and that very frequent Meetings of <hi>Ro<g ref="char:EOLhyphen"/>miſh</hi> Prieſts, and others of that <hi>Religion</hi> are held there.</p>
+                  <p>Mr. <hi>Roger Seys</hi> upon his Oath depoſeth, that he being <hi>Church-War<g ref="char:EOLhyphen"/>den, Iſaac Williams,</hi> one of the <hi>Coroners</hi> of the County of <hi>Monmouth</hi> did check him for putting the Statute in Execution againſt Popiſh Recuſants for not coming to Church, and told him it was pirty to proſecute them, for they were honeſt People, and in way of Diſcourſe did hold many Alguments with him in vindication of the <hi>Romiſh Religion.</hi>
+                  </p>
+                  <p>Mr. <hi>John Greenhaugh, Vicar</hi> of <hi>Abergavenny,</hi> upon his Oath ſay<g ref="char:EOLhyphen"/>eth,
+<pb n="20" facs="tcp:66049:10"/>
+that <hi>Mary</hi> the Wife of Mr. <hi>Lewis Jones,</hi> was the only Perſon in that Town, ſeverely proſecuted for a <hi>Roman Catholick,</hi> though there were many convict Papiſts of greater Ability in the ſaid Town, and that it was done after her Conſormity and Reconciliation to the <hi>Church of England,</hi> and that her Husband told him, that he had pay<g ref="char:EOLhyphen"/>ed to the <hi>Under-Sheriff</hi> nine <hi>pounds</hi> ten <hi>Shillings,</hi> notwithſtanding the Certificate under his Hand and Seal of her Conformity.</p>
+                  <p>Mr. <hi>Scudamore</hi> ſayes, that about five Years ſince, he apprehend<g ref="char:EOLhyphen"/>ed one Mr. <hi>Elliot,</hi> a <hi>Popiſh Prieſt,</hi> habited in his <hi>Scope</hi> and other <hi>Veſts,</hi> in the Acts of <hi>Celebration</hi> of <hi>Maſs</hi> in a Chappel of <hi>Herefordſhire,</hi> where<g ref="char:EOLhyphen"/>in he obſerved an <hi>Altar, Lights, Papers</hi> and ſeveral <hi>Images,</hi> he asked the ſaid <hi>Elliot</hi> how he durſt ſay <hi>Maſs</hi> ſo publickly, there being at <hi>Maſs</hi> above thirty Perſons, being there was a Proclamation to the contrary? Mr. <hi>Elliot</hi> anſwered that he knew of no Proclamation, but demanded by what Authority he took him, telling him he ſhould have no thanks for apprehending him; Mr. <hi>Scudamore</hi> ſaith, that he thereupon committed <hi>Elliot</hi> to the County Goale, and the next Aſſizes cauſed a Bill to be preſented againſt him, which was found, but before his Tryal he was taken out of the Goal, and as the <hi>
+                        <g ref="char:V">Ʋ</g>nder-Sheriff</hi> informed him, he was moved to the <hi>Tower</hi> of <hi>London.</hi> It appears to the Committee by the Original Records and Papers produced, that the ſaid <hi>John Scudamore</hi> did by his <hi>Mittimus</hi> dated the <hi>17th.</hi> of <hi>September</hi> 1675, commit the ſaid <hi>Elliot</hi> as a Po<g ref="char:EOLhyphen"/>piſh Prieſt to the County Goal of <hi>Hereford,</hi> until he ſhould be thence delivered by due Courſe of Law, that by Warrant Coun<g ref="char:EOLhyphen"/>ter-ſigned by Mr. <hi>Secretary Trevor,</hi> dated the <hi>24th</hi> of <hi>January</hi> fol<g ref="char:EOLhyphen"/>lowing, directed to <hi>Marſhal Brigs</hi> 
+                     <abbr>Eſq</abbr> high <hi>Sheriff</hi> of the Coun<g ref="char:EOLhyphen"/>ty of <hi>Hereford,</hi> the ſaid <hi>Elliot</hi> was brought up to <hi>London</hi> in order to his Delivery over to the <hi>Lieutenant</hi> of the <hi>Tower.</hi> That by Warrant, counterſigned by Mr. <hi>Secretary Trevor</hi> dated the <hi>15th.</hi> of <hi>February</hi> following, directed to the Lieutenant of the Tower, the ſaid <hi>Elliot</hi> was committed unto the <hi>Tower</hi> until further Order, and accor<g ref="char:EOLhyphen"/>dingly, the ſaid Mr. <hi>Elliot</hi> was delivered by the <hi>High-Sheriff</hi> of <hi>He<g ref="char:EOLhyphen"/>refordſhire</hi> into the <hi>Lieutenant</hi> of the <hi>Tower's</hi> Cuſtody.</p>
+                  <p>That by <hi>Warrant</hi> counterſigned by Mr. <hi>Secretary Trevor,</hi> dated the <hi>4th.</hi> of <hi>March following,</hi> the <hi>Lieutenant of the Tower</hi> was com<g ref="char:EOLhyphen"/>manded to enlarge and ſet at Liberty the ſaid <hi>William Elliot,</hi> firſt taking ſecurity from him to tranſport himſelf out of the Realm, into ſome Parts beyond Seas within ten Dayes next after his Enlargement, and not to return into any of his Majeſties Dominions, without leave firſt obtained.</p>
+                  <p>That according the ſaid <hi>Lieutenant</hi> took a Bond in his Majeſties Name from the ſaid <hi>Elliot</hi> with two ſureties in the Sum of five hun<g ref="char:EOLhyphen"/>dred Pounds, and thereupon ſet the ſaid <hi>Elliot</hi> at Liberty; that at the next Aſſizes and General Goal delivered for the County of <hi>He<g ref="char:EOLhyphen"/>reford</hi>
+                     <pb n="20" facs="tcp:66049:10"/>
+the <hi>24th.</hi> of <hi>March</hi> following, the ſaid <hi>William Elliot</hi> was indicted for being a Seminary Prieſt, which Indictment was found by the Grand <hi>Jury,</hi> and to which Indictment <hi>Edward Marriot, Joh. Gole,</hi> and <hi>Arthur Liſter</hi> were <hi>Witueſſes,</hi> who by their Informations taken upon Oath, and produced to the <hi>Committee</hi> by the Clerk of Aſſize, do ſeverally depoſe the apprehending the ſaid <hi>Elliot</hi> in the Act of Celebration of <hi>Maſs,</hi> as Mr. <hi>Scudamore</hi> hath ſet forth in his Examination aforeſaid.</p>
+                  <p>The ſaid Mr. <hi>Elliot</hi> by his Examination and Confeſſion produc't to the <hi>Committee</hi> by the Clerk of the <hi>Aſſize,</hi> and taken before Sir <hi>Edward Harly, John Scudamore</hi> and <hi>William Gregory</hi> Eſqs; Juſtices of the Peace, for the County of <hi>Hereford</hi> ſays, that he was appre<g ref="char:EOLhyphen"/>hended when he was at his private devotion, but confeſſeth that there was then with him in the ſame Room at Devotion, about <hi>ſix</hi> or <hi>ſeven</hi> and <hi>Twenty</hi> Perſons; that he was habited with a <hi>Surplice,</hi> and <hi>Veſt<g ref="char:EOLhyphen"/>ment</hi> over it, and being examined, whither he was a Prieſt in Orders from the <hi>Church of Rome,</hi> he refuſed to anſwer thereunto, but ſaid let it be proved againſt me, I will not Accuſe my ſelf.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
